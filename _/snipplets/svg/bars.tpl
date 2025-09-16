@@ -1,0 +1,1 @@
+<svg class="{{ svg_custom_class }}" viewBox="0 0 512 512"><path d="M486.4,102.4H25.6v-25.6H486.4v25.6Zm0,179.2H25.6v-25.6H486.4v25.6Zm0,179.2H25.6v-25.6H486.4v25.6Z"/></svg>
