@@ -73,9 +73,6 @@
 {% endif %}
 
 <header class="js-head-main {% if head_transparent %}js-head-mutator{% endif %} {% if head_transparent_type_always %}head-transparent{% endif %} {% if head_transparent_type_on_section_above_the_fold %}head-transparent-on-section{% endif %} {% if head_transparent and settings.head_transparent_contrast_options %}head-transparent-contrast{% endif %} head-main {{ head_position_mobile }} {{ head_position_desktop }} transition-soft" data-store="head">
-    <div class="marquee-container">
-        <div class="marquee-content">Bienvenido a Qianbeinny envíos a todo el país - Drop N°2 activado</div>
-    </div>
     {# Adversiting bar #}
     {% if settings.ad_bar %}
         {% snipplet "header/header-advertising.tpl" %}
